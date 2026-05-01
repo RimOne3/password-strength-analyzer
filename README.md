@@ -1,4 +1,3 @@
-[README_password_analyzer.md](https://github.com/user-attachments/files/27289423/README_password_analyzer.md)
 # 🔐 Password Strength Analyzer
 
 A Python command-line tool that evaluates password strength using security best practices. Provides a detailed breakdown of length, complexity, entropy, and common vulnerability patterns — with actionable recommendations.
